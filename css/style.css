@@ -1,5 +1,5 @@
 *,
-a{
+a {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
@@ -21,8 +21,6 @@ html {
   flex-direction: column;
 }
 
-
-
 .navi {
   margin-top: -59px;
   background-image: url(../img/nav.png);
@@ -32,106 +30,94 @@ html {
   width: 980px;
   overflow: hidden;
   cursor: pointer;
-  
 }
 
-.icon{
-    background-image: url(../img/sprite.png);
-    width: 60px;
-    height: 40px;
-    
-    display:inline-block;
-    background-repeat: no-repeat;
-    
-    
+.icon {
+  background-image: url(../img/sprite.png);
+  width: 60px;
+  height: 40px;
+
+  display: inline-block;
+  background-repeat: no-repeat;
 }
 
-.icon:hover{
-    background-color: rgb(59, 58, 58);
-    overflow: hidden;
+.icon:hover {
+  background-color: rgb(59, 58, 58);
+  overflow: hidden;
 }
 
-#icon_1{
-    background-position: -30px 0;
-    width: 100px;
-    border-right:  rgb(75, 74, 74) solid;
-    border-width: 1px;
+#icon_1 {
+  background-position: -30px 0;
+  width: 100px;
+  border-right: rgb(75, 74, 74) solid;
+  border-width: 1px;
 }
 
-#icon_2{
-    background-position: -30px -28px;
-    width: 100px;
-    border-right: rgb(75, 74, 74) solid;
-    border-width: 1px;
-    
+#icon_2 {
+  background-position: -30px -28px;
+  width: 100px;
+  border-right: rgb(75, 74, 74) solid;
+  border-width: 1px;
 }
 
 #icon_3 {
-    background-position: -30px -58px;
-    width: 100px;
-    border-right: rgb(75, 74, 74) solid;
-    border-width: 1px;
+  background-position: -30px -58px;
+  width: 100px;
+  border-right: rgb(75, 74, 74) solid;
+  border-width: 1px;
 }
 
-#icon_4{
-    background-position:  -30px -88px;
-    width: 100px;
-    border-right: rgb(75, 74, 74) solid;
-    border-width: 1px;
+#icon_4 {
+  background-position: -30px -88px;
+  width: 100px;
+  border-right: rgb(75, 74, 74) solid;
+  border-width: 1px;
 }
 
-#icon_5{
-    background-position:  -30px -118px;
-    width: 100px;
-    border-right: rgb(75, 74, 74) solid;
-    border-width: 1px;
+#icon_5 {
+  background-position: -30px -118px;
+  width: 100px;
+  border-right: rgb(75, 74, 74) solid;
+  border-width: 1px;
 }
 
-#icon_6{
-    background-position:  -30px -148px;
-    width: 100px;
-    border-right: rgb(75, 74, 74) solid;
-    border-width: 1px;
+#icon_6 {
+  background-position: -30px -148px;
+  width: 100px;
+  border-right: rgb(75, 74, 74) solid;
+  border-width: 1px;
 }
 
-#icon_7{
-    background-position:  -30px -178px;
-    width: 100px;
-    border-right: rgb(75, 74, 74) solid;
-    border-width: 1px;
+#icon_7 {
+  background-position: -30px -178px;
+  width: 100px;
+  border-right: rgb(75, 74, 74) solid;
+  border-width: 1px;
 }
 
-#icon_8{
-    background-position:  -30px -208px;
-    width: 100px;
-    border-right: rgb(75, 74, 74) solid;
-    border-width: 1px;
-    
+#icon_8 {
+  background-position: -30px -208px;
+  width: 100px;
+  border-right: rgb(75, 74, 74) solid;
+  border-width: 1px;
 }
 
-.icons{
-    background-color: grey;
-    box-shadow: 1px 3px #494949 inset;
-    width: 100px;
-    height: 20px;
-   margin-left: 849px;
-   border-radius: 20px;
-    margin-top: -33px;
+.icons {
+  background-color: grey;
+  box-shadow: 1px 3px #494949 inset;
+  width: 100px;
+  height: 20px;
+  margin-left: 849px;
+  border-radius: 20px;
+  margin-top: -33px;
 }
 
-.material-icons.md-18{
-    font-size: 15px;
-    color: honeydew;
-    margin-top: 4px;
-    padding-left: 7px;
-    
+.material-icons.md-18 {
+  font-size: 15px;
+  color: honeydew;
+  margin-top: 4px;
+  padding-left: 7px;
 }
-
-
-
-
-
-
 
 .heading1 {
   display: flex;
@@ -155,32 +141,32 @@ html {
   margin-top: 25px;
 }
 
-.main{
-    display: flex;
-    padding-top: 2px;
+.main {
+  display: flex;
+  padding-top: 2px;
 }
 
-.footer{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    height: 90px;
-    font-size: 10px;
-    color: grey;
-    font-family:  "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
-    
-}
-a{
-    color: rgb(96, 96, 255);
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 90px;
+  font-size: 10px;
+  color: grey;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana,
+    sans-serif;
 }
 
-.section_1{
-    
-    width: 450px;
-    margin-right: -250px;
+a {
+  color: rgb(96, 96, 255);
 }
 
-.section_2{
-    margin-top: -18px;
-    margin-left: -100px;
+.section_1 {
+  width: 450px;
+  margin-right: -250px;
+}
+
+.section_2 {
+  margin-top: -18px;
+  margin-left: -100px;
 }
