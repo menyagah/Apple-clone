@@ -1,7 +1,9 @@
-* {
+*,
+a{
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+  text-decoration: none;
 }
 
 html {
@@ -156,4 +158,29 @@ html {
 .main{
     display: flex;
     padding-top: 2px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90px;
+    font-size: 10px;
+    color: grey;
+    font-family:  "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+    
+}
+a{
+    color: rgb(96, 96, 255);
+}
+
+.section_1{
+    
+    width: 450px;
+    margin-right: -250px;
+}
+
+.section_2{
+    margin-top: -18px;
+    margin-left: -100px;
 }
