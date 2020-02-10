@@ -1,7 +1,7 @@
 # Apple-clone
 This is a clone of the archived apple webpage from the year 2014.
 
-![screenshot](img/Apple-clone.png)
+![screenshot](img/Apple-clone.jpg)
 
 
 The project was a collaboration. The project uses basic html5 and css3. 
