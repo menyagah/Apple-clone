@@ -14,7 +14,7 @@ This was a solo project. The project uses basic html5 and css3.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/menyagah/Apple-clone/6fefc589df13f0e46830ffec970d6cbbfdba2f71/index.html)
+[Live Demo Link](https://rawcdn.githack.com/menyagah/Apple-clone/a2dbb5e1f7472b6ed29fabe03f47ea9b0f22e3f7/index.html)
 
 
 ## Getting Started
