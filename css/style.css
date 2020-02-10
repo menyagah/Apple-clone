@@ -13,9 +13,9 @@ html {
 .header {
   display: flex;
   height: 53.8rem;
-  width: 100%;
   background-image: url(../img/header.jpg);
   background-position: bottom;
+  background-repeat: no-repeat;
   align-items: center;
   justify-content: center;
   flex-direction: column;
@@ -142,7 +142,12 @@ html {
 
 .main {
   display: flex;
+  width: 100%;
   padding-top: 2px;
+}
+
+.pics {
+  width: 337.8px;
 }
 
 .footer {
@@ -152,7 +157,8 @@ html {
   height: 90px;
   font-size: 10px;
   color: grey;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana,
+    sans-serif;
 }
 
 a {
