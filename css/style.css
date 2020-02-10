@@ -36,7 +36,6 @@ html {
   background-image: url(../img/sprite.png);
   width: 60px;
   height: 40px;
-
   display: inline-block;
   background-repeat: no-repeat;
 }
@@ -153,8 +152,7 @@ html {
   height: 90px;
   font-size: 10px;
   color: grey;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana,
-    sans-serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
 
 a {
