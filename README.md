@@ -1,6 +1,6 @@
 # Apple-clone
-This is a clone of the archived apple webpage from the year 2014.
-Below is a screenshot of the apple clone in action.
+- This is a clone of the archived apple webpage from the year 2014.
+- Below is a screenshot of the apple clone in action.
 
 ![screenshot](img/Apple-clone.jpg)
 
