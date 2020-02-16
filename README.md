@@ -2,7 +2,7 @@
 - This is a clone of the archived apple webpage from the year 2014.
 - Below is a screenshot of the apple clone in action.
 
-![screenshot](img/Apple-clone.jpg)
+[screenshot](img/Apple-clone.jpg)
 
 
 This was a solo project. The project uses basic html5 and css3. 
